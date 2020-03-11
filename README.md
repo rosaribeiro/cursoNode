@@ -35,16 +35,18 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
         - Utilizando o ssh no Linux
         - Utilizando o ssh no Windows
     5. Criando o primeiro commit e comandos básicos git
-      * 'git clone'
-      * 'git fetch origin master'
-      * 'git remote -v'
-      * 'git remote add upstream'
-      * 'git remote add origin'
-      * 'git pull'
-      * 'git add .'
-      * 'git add nomeDoArquivo'
-      * 'git commit "First Commit"'
-      * 'git push origin master'
+      '''
+        git clone
+        git fetch origin master
+        git remote -v
+        git remote add upstream
+        git remote add origin
+        git remote pull
+        git add .
+        git add nomeDoArquivo
+        git commit "First Commit"
+        git push origin master
+      '''
     6. Criando um fork em um projeto de terceiros
     7. Criando o primeiro projeto NodeJs
       * npm init
