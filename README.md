@@ -21,7 +21,7 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
 
   Chegou o momento de levar suas aplicações e sua carreira para o próximo nível, pois além de treinar suas habilidades, você ainda vai colocar mais um projeto incrível no seu portfólio.
 
-	Eu sou **Jonatas Henrique**, vem comigo que o curso vai começar.
+	Eu sou __Jonatas Henrique__, vem comigo que o curso vai começar.
 
   * Módulo 01
     1. Introdução
