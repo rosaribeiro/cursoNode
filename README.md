@@ -35,7 +35,7 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
         * Utilizando o ssh no Linux
         * Utilizando o ssh no Windows
     4. Criando o primeiro commit e comandos básicos git
-      '- git clone
+      - git clone
       - git fetch origin master
       - git remote -v
       - git remote add upstream
@@ -44,12 +44,10 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
       - git add .
       - git add nomeDoArquivo
       - git commit "First Commit"
-      - git push origin master'
+      - git push origin master
     5. Criando um fork em um projeto de terceiros
     6. Criando o primeiro projeto NodeJs
     7. Instalação do MongoDB
-    8. 
-    9.
 
   . Módulo 02
 
