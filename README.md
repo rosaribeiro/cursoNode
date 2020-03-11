@@ -22,3 +22,37 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
   Chegou o momento de levar suas aplicações e sua carreira para o próximo nível, pois além de treinar suas habilidades, você ainda vai colocar mais um projeto incrível no seu portfólio.
 
 	Eu sou Jonatas Henrique, vem comigo que o curso vai começar.
+
+  . Módulo 01
+    0. Introdução
+    1. Instalação e Customização do Visual Stúdio Code
+    2. Configuração do ambiente javaScript com Visual Stúdio Code
+    3. Integração com o GitHub
+      - Acessando o site do GitHub
+      - Criando um projeto no GitHub
+      - Habilitando comunicação ssh entre o computador e o GitHub
+        * Utilizando o ssh no mac
+        * Utilizando o ssh no Linux
+        * Utilizando o ssh no Windows
+    4. Criando o primeiro commit e comandos básicos git
+      '- git clone
+      - git fetch origin master
+      - git remote -v
+      - git remote add upstream
+      - git remote add origin
+      - git pull
+      - git add .
+      - git add nomeDoArquivo
+      - git commit "First Commit"
+      - git push origin master'
+    5. Criando um fork em um projeto de terceiros
+    6. Criando o primeiro projeto NodeJs
+    7. Instalação do MongoDB
+    8. 
+    9.
+
+  . Módulo 02
+
+  . Módulo 03
+  . Módulo 04
+  . Módulo 05
