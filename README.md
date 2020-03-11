@@ -92,7 +92,7 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
               12
               12.5
             ```
-          Podemos utilizar notação cientifica para números muito grande adicionando um e de expoente e em seguida o valor do expoente.
+          Podemos utilizar notação cientifica para números grandes adicionando um e de expoente e em seguida o valor do expoente.
 
           ```
             12.555e9
