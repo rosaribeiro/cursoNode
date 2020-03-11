@@ -23,7 +23,7 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
 
 	Eu sou Jonatas Henrique, vem comigo que o curso vai começar.
 
-  . Módulo 01
+  * Módulo 01
     0. Introdução
     1. Instalação e Customização do Visual Stúdio Code
     2. Configuração do ambiente javaScript com Visual Stúdio Code
@@ -49,8 +49,8 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
     6. Criando o primeiro projeto NodeJs
     7. Instalação do MongoDB
 
-  . Módulo 02
+  * Módulo 02
 
-  . Módulo 03
-  . Módulo 04
-  . Módulo 05
+  * Módulo 03
+  * Módulo 04
+  * Módulo 05
