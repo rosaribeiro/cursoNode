@@ -21,9 +21,9 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
 
   Chegou o momento de levar suas aplicações e sua carreira para o próximo nível, pois além de treinar suas habilidades, você ainda vai colocar mais um projeto incrível no seu portfólio.
 
-	Eu sou __Jonatas Henrique__, vem comigo que o curso vai começar.
+	Eu sou Jonatas Henrique, vem comigo que o curso vai começar.
 
-  * Módulo 01
+  * Módulo 01 - Introdução ao curso
     1. Introdução
     2. Instalação e Customização do Visual Stúdio Code
     3. Configuração do ambiente javaScript com Visual Stúdio Code
@@ -61,8 +61,53 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
 
     8. Instalação do MongoDB
 
-  * Módulo 02
+  * Módulo 02 - Introdução ao JavaScript
+    1. Introdução ao JavaScript
 
-  * Módulo 03
-  * Módulo 04
-  * Módulo 05
+      - Como aprender programação
+        - Antes de explicar o que é o JavaScript, vou falar rapidamente sobre o que é programação de computadores para aqueles que estão chegando agora nessa área vasta e que está em constante evolução.
+			  Se você é novo em programação, você deve digerir muitos conceitos novos, algumas vezes vai ser frustrante e cansativo, mas fica a seu critério saber qual o nível de esforço necessário para seu aprendizado.
+			  Quando você se sentir cansado, tire um tempo para descansar a mente, o corpo, pause o curso um pouco, dê tempo para que seu cérebro absorva os novos conhecimentos, e assim que se sentir relaxado volte novamente de onde parou, o importante é prosseguir e descobrir um ritmo certo para o aprendizado continuo, descubra seu próprio fluxo de aprendizado .
+			  Não deixe de fazer todos os exercícios e exemplos do curso, digitando o código na sua máquina, apesar do código está todo disponível no GitHub, eu peço a você que crie um projeto separado para que você mesmo possa digitar todo o código, para você ter uma memorização muito mais rápida dos comandos aprendidos.
+
+      - Origem do JavaScript
+        Agora vamos falar um pouco do javaScript, mais afinal o que é isso, de onde veio, onde vive?
+			  Antes de 1995, as páginas web eram praticamente imagens ou texto puro em que o visitante do site poderia ler e navegar entre os links, porém cada vez surgiam mais páginas.
+			  Porém o uso de páginas estáticas em html se tornou cada vez mais limitante e frustrante, foi então que começaram a surgir iniciativas de empresas de tecnologias para que de alguma forma as páginas estáticas da internet pudessem ser um pouco mais que apenas apresentar páginas e realmente entregassem aos usuários alguma solução viável de funcionalidades iguais as que já existiam em programas tradicionais de desktop.
+			  Então o Netscape, na época um dos principais navegadores de internet, introduziu o javaScript como forma de executar programas nas páginas html, tornando possível a criação de aplicações modernas na internet.  Os outros navegadores logo passaram a adotar a linguagem.
+			  Não confunda javaScript com a linguagem Java, na época a adoção do nome foi mais por questões de marketing do que de relacionamento entre as duas linguagens.
+			  Depois que as empresas passaram a adotar o javascript como linguagem de navegador, foi criado um documento que padroniza a linguagem, para garantir que todos os navegadores que a utilizam estejam falando da mesma linguagem.
+			  Esse padrão é chamado de ECMAScript e é mantido atualmente pela instituição internacional ECMA.
+			  Então se você ouvir alguém chamar javascript ou ECMAScript, não estranhe, são praticamente sinônimos ou seja dois nomes para a mesma linguagem.
+
+    2. Valores, tipos e operadores
+      Quando você estiver programando vai lidar corriqueiramente com valores, tipos e operadores.
+		  Basicamente valores são quantidades de bits separados em pedaços de informação.
+		  Embora todos os valores sejam formados de bits, cada valor exerce um papel diferente na execução do programa e cada valor possui um tipo que determina o seu papel.
+		  Em javascript temos basicamente 6 tipos de valores, que são números, Strings, Booleanos, objetos, funções e undefined.
+        - Números
+          Como você ja devia imaginar, números em javaScript são números propriamente dito. Podemos utilizar praticamente todas as convenções numéricas existentes como números fracionarios.
+
+            ```
+              12
+              12.5
+            ```
+          Podemos utilizar notação cientifica para números muito grande adicionando um e de expoente e em seguida o valor do expoente.
+
+          ```
+            12.555e9
+            console.log(12.555e9)
+          ```
+          A saida para esse valor no console, seria:
+          
+    3. Sintaxe Básica
+    4. Funções e escopos
+    5.
+    6.
+    7.
+    8.
+    9.
+    10.
+
+  * Módulo 03 - Desenvolvimento da API
+  * Módulo 04 - Aperfeiçoamento da API, tópicos Avançados
