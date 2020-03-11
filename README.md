@@ -71,7 +71,7 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
 			  Não deixe de fazer todos os exercícios e exemplos do curso, digitando o código na sua máquina, apesar do código está todo disponível no GitHub, eu peço a você que crie um projeto separado para que você mesmo possa digitar todo o código, para você ter uma memorização muito mais rápida dos comandos aprendidos.
 
       - Origem do JavaScript
-        Agora vamos falar um pouco do javaScript, mais afinal o que é isso, de onde veio, onde vive?
+        - Agora vamos falar um pouco do javaScript, mais afinal o que é isso, de onde veio, onde vive?
 			  Antes de 1995, as páginas web eram praticamente imagens ou texto puro em que o visitante do site poderia ler e navegar entre os links, porém cada vez surgiam mais páginas.
 			  Porém o uso de páginas estáticas em html se tornou cada vez mais limitante e frustrante, foi então que começaram a surgir iniciativas de empresas de tecnologias para que de alguma forma as páginas estáticas da internet pudessem ser um pouco mais que apenas apresentar páginas e realmente entregassem aos usuários alguma solução viável de funcionalidades iguais as que já existiam em programas tradicionais de desktop.
 			  Então o Netscape, na época um dos principais navegadores de internet, introduziu o javaScript como forma de executar programas nas páginas html, tornando possível a criação de aplicações modernas na internet.  Os outros navegadores logo passaram a adotar a linguagem.
@@ -99,7 +99,7 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
             console.log(12.555e9)
           ```
           A saida para esse valor no console, seria:
-          
+
     3. Sintaxe Básica
     4. Funções e escopos
     5.
