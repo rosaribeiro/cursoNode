@@ -1,7 +1,4 @@
-# cursoNode
-Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e códigos das aulas.
-
-## Curso completo de NodeJs 2020
+# Curso Completo de NodeJs 2020
 
 ### Introdução
 
@@ -61,13 +58,11 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
 
   * Módulo 02 - Introdução ao JavaScript
     1. Introdução ao JavaScript
-
       - Como aprender programação
         - Antes de explicar o que é o JavaScript, vou falar rapidamente sobre o que é programação de computadores para aqueles que estão chegando agora nessa área vasta e que está em constante evolução.
 			  Se você é novo em programação, você deve digerir muitos conceitos novos, algumas vezes vai ser frustrante e cansativo, mas fica a seu critério saber qual o nível de esforço necessário para seu aprendizado.
 			  Quando você se sentir cansado, tire um tempo para descansar a mente, o corpo, pause o curso um pouco, dê tempo para que seu cérebro absorva os novos conhecimentos, e assim que se sentir relaxado volte novamente de onde parou, o importante é prosseguir e descobrir um ritmo certo para o aprendizado continuo, descubra seu próprio fluxo de aprendizado .
 			  Não deixe de fazer todos os exercícios e exemplos do curso, digitando o código na sua máquina, apesar do código está todo disponível no GitHub, eu peço a você que crie um projeto separado para que você mesmo possa digitar todo o código, para você ter uma memorização muito mais rápida dos comandos aprendidos.
-
       - Origem do JavaScript
         - Agora vamos falar um pouco do javaScript, mais afinal o que é isso, de onde veio, onde vive?
 			  Antes de 1995, as páginas web eram praticamente imagens ou texto puro em que o visitante do site poderia ler e navegar entre os links, porém cada vez surgiam mais páginas.
@@ -112,7 +107,11 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
     2. Instalação do MongoDb
     3. o padrão JSON
   * Módulo 04 - Introdução ao NodeJs
+
   * Módulo 05 - Operações matemáticas
+    1. Api de Operações matemáticas básicas
+    2. Estrutura do projeto
+
   * Módulo 06 - Lista de Tarefas
   * Módulo 07 - Comandas Eletrônicas
   * Módulo 08 - Locadora de Carros
