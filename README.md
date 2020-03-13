@@ -1,7 +1,7 @@
 # cursoNode
 Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e códigos das aulas.
 
-## Curso completo de NodeJs
+## Curso completo de NodeJs 2020
 
 ### Introdução
 
@@ -59,8 +59,6 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
       npm install
     ```
 
-    8. Instalação do MongoDB
-
   * Módulo 02 - Introdução ao JavaScript
     1. Introdução ao JavaScript
 
@@ -109,5 +107,21 @@ Compendio de todas as aulas do meu curso completo de NodeJs, com exemplos e cód
     9.
     10.
 
-  * Módulo 03 - Desenvolvimento da API
-  * Módulo 04 - Aperfeiçoamento da API, tópicos Avançados
+  * Módulo 03 - Introdução ao MongoDb
+    1. Não é SQL
+    2. Instalação do MongoDb
+    3. o padrão JSON
+  * Módulo 04 - Introdução ao NodeJs
+  * Módulo 05 - Operações matemáticas
+  * Módulo 06 - Lista de Tarefas
+  * Módulo 07 - Comandas Eletrônicas
+  * Módulo 08 - Locadora de Carros
+  * Módulo 09 - Aperfeiçoamento da API, tópicos Avançados
+    1. Sistema de Login
+    2. Postagem de Fotos com Aws
+    3. Emissão de Documentos
+  * Módulo 10 - Deploy
+    1. Deploy no Heroku
+    2. Deploy automatizado GitHub + Heroku
+  * Bônus 01 - Construindo o projeto final
+  * Bônus 02 - Criando um front-end em ReactJs para o projeto final
