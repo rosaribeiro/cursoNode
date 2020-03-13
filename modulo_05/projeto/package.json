@@ -1,0 +1,11 @@
+{
+  "name": "calc-api",
+  "version": "1.0.0",
+  "description": "Api para calcular o resultado entre dois numeros",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jhenriquedev",
+  "license": "ISC"
+}
