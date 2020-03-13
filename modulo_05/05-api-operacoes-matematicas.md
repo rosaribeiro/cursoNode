@@ -4,6 +4,7 @@
   ## Aula 01 - Configuração do projeto
 
   1. Introdução ao projeto
+  
   2. Iniciando o projeto
     Para inciarmos nosso projeto precisamos dar o comando para iniciar o npm, no terminal.
     Para isso vamos navegar até o diretorio do projeto digitando:
@@ -23,4 +24,6 @@
       - Irei colocar meu nome do GitHub.
       - Em license apenas dê enter
       - Depois de completar todas essas irá aparecer uma pergunta de confirmação, basta dar enter.
+      - Estando tudo certo, você verá algo como esse print da saida do terminal.
+
   3. Arquivo package.json
