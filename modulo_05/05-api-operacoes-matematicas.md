@@ -27,11 +27,14 @@
       - Estando tudo certo, você verá algo como esse print da saida do terminal.
       ![Saida do terminal](../assets/modulo_05/saida-npm.png)
 
-  3. Arquivo package.json
+  3. Arquivo ```package.json ```
     Após a conclusão da configuração inicial do npm, vai surgir um arquivo json no diretorio raiz do nosso projeto chamado package.json.
     Ao abrirmos esse arquivo, vamos verificar que o conteúdo dentro dele, nada mais é do que algumas informações úteis ao npm, que realmente são as configurações do seu projeto.
     Perceba que os campos que preenchemos no terminal, estão todos aqui, porém ainda existem outros campos que podem surgir a medida que a gente avança no desenvolvimento do projeto.
     Nesse ponto, nosso projeto está sem dependencias, porém para realmente começarmos a trabalhar vamos precisar instalar algumas dependencias.
     No terminal digite: ``` npm install -d express ```, esse comando irá instalar para o projeto a biblioteca do express, que irá nos permitir criar um servidor no simples que será executado no node.
     OBS: O parametro -d indica que o pacote instalado será uma dependencia do projeto.
-    Agora se você voltar os package.json novamente, poderá ver que foi adicionado mais uma categoria chamada ``` dependencies ```, conforme vemos a seguir:
+    Agora se você voltar os package.json novamente, poderá ver que foi adicionado mais uma categoria chamada ``` dependencies ```, conforme a imagem abaixo:
+    ![Dependencias no arquivo package.json](../assets/modulo_05/dependencias.png)
+    Após a instalação do express podemos ver que além da alteração no arquivo package.json, também foram criados outros arquivos no projeto, que é o diretorio node_modules, como o nome ja diz, é um local onde os pacotes instalados pelo npm ficaram para o acesso da aplicação.
+
